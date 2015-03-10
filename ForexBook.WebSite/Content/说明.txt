@@ -1,0 +1,6 @@
+源码编译，使用grunt ,需要安装Nodejs环境，
+源码目录 src
+发布目录 dist
+目前src\assets\js\map.js 重构过，比较完整
+
+
