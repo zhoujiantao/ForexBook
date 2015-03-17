@@ -3,12 +3,12 @@ using System.Web.Optimization;
 
 namespace ForexBook.WebSite
 {
-	public class BundleConfig
-	{
-		// 有关绑定的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkId=301862
-		public static void RegisterBundles(BundleCollection bundles)
-		{
-			 
-		}
-	}
+    public class BundleConfig
+    {
+        // For more information on Bundling, visit http://go.microsoft.com/fwlink/?LinkId=254725
+        public static void RegisterBundles(BundleCollection bundles)
+        {
+
+        }
+    }
 }
